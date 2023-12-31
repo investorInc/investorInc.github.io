@@ -1,0 +1,37 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/market-insights.jpg",
+      "name": "Market Insights",
+      "url": "./market-insights/"
+    },
+    {
+      "img": "menu/investment-strategies.jpg",
+      "name": "Investment Strategies",
+      "url": "./investment-strategies/"
+    },
+    {
+      "img": "menu/portfolio-growth.jpg",
+      "name": "Portfolio Growth",
+      "url": "./portfolio-growth/"
+    },
+    {
+      "img": "menu/risk-management.jpg",
+      "name": "Risk Management",
+      "url": "./risk-management/"
+    }
+  ],
+  "title": "InvestorM",
+  "h1": "InvestorM",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    }
+  ],
+  "url": "https://investbread.com/",
+  "keywords": "InvestBread, investing, finance, stocks, bonds, trading",
+  "description": "InvestBread.com is a finance website dedicated to providing insights and information about investing in stocks, bonds, and other securities to help individuals make informed financial decisions.",
+  "about": "InvestBread.com is a comprehensive finance website that provides information and insights into the world of investing. We specialize in educating and informing individuals about the best practices and strategies for investing in stocks, bonds, and other securities. Our team of experienced financial analysts provides in-depth analysis and forecasts on the latest market trends and investment opportunities. Whether you are a seasoned investor or just starting out, InvestBread.com has something for you. Our goal is to empower individuals with the knowledge and tools they need to make informed and successful investment decisions. Join our community today and start investing with confidence!"
+}

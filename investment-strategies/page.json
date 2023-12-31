@@ -1,0 +1,46 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/diversification-techniques.jpg",
+      "name": "Diversification Techniques",
+      "url": "./diversification-techniques/"
+    },
+    {
+      "img": "menu/passive-vs-active-investing.jpg",
+      "name": "Passive vs. Active Investing",
+      "url": "./passive-vs-active-investing/"
+    },
+    {
+      "img": "menu/long-term-vs-short-term-approaches.jpg",
+      "name": "Long-term vs. Short-term Approaches",
+      "url": "./long-term-vs-short-term-approaches/"
+    },
+    {
+      "img": "menu/value-vs-growth-investing.jpg",
+      "name": "Value vs. Growth Investing",
+      "url": "./value-vs-growth-investing/"
+    },
+    {
+      "img": "menu/sustainable-investing.jpg",
+      "name": "Sustainable Investing",
+      "url": "./sustainable-investing/"
+    }
+  ],
+  "title": "Investment Strategies",
+  "h1": "Investment Strategies",
+  "url": "https://investbread.com/investment-strategies/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Investment Strategies",
+      "url": "/investment-strategies/"
+    }
+  ],
+  "keywords": "investment strategies, long term investing, diversification, risk management, asset allocation",
+  "description": "Learn about effective investment strategies for long term growth and risk management on InvestBread.com",
+  "about": "Investment strategies are crucial to the success of any investment portfolio. At InvestBread.com, we understand the importance of long term investing and offer a variety of strategies to help you achieve your financial goals. Our experienced team of experts can help you navigate the often complex world of investing, from diversification to asset allocation, and risk management. With our guidance, you can make informed decisions about your investments and build a portfolio that is tailored to your unique circumstances. We believe that a well-planned investment strategy can provide long-term growth and stability, and our mission is to help you achieve that success."
+}

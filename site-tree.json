@@ -1,0 +1,525 @@
+{
+  "name": "InvestorM",
+  "childs": [
+    {
+      "name": "Market Insights",
+      "childs": [
+        {
+          "name": "Economic Trends",
+          "childs": [
+            {
+              "name": "Top 5 Economic Indicators Every Investor Needs to Know",
+              "childs": []
+            },
+            {
+              "name": "The Impact of Inflation on Investment Portfolios",
+              "childs": []
+            },
+            {
+              "name": "Tracking GDP Growth: A Guide for Investors",
+              "childs": []
+            },
+            {
+              "name": "How Unemployment Rates Influence Market Performance",
+              "childs": []
+            },
+            {
+              "name": "The Relationship Between Interest Rates and Investments",
+              "childs": []
+            }
+          ]
+        },
+        {
+          "name": "Industry Analysis",
+          "childs": [
+            {
+              "name": "Exploring the Tech Sector: Opportunities and Risks",
+              "childs": []
+            },
+            {
+              "name": "Renewable Energy Investment: The Future of Power Generation",
+              "childs": []
+            },
+            {
+              "name": "Investing in Healthcare: Trends Shaping the Industry",
+              "childs": []
+            },
+            {
+              "name": "The Rise of E-commerce: How Online Retail is Changing the Game",
+              "childs": []
+            },
+            {
+              "name": "Artificial Intelligence: Investing in the AI Revolution",
+              "childs": []
+            }
+          ]
+        },
+        {
+          "name": "Global Market Updates",
+          "childs": [
+            {
+              "name": "Emerging Markets: Unlocking Investment Potential Worldwide",
+              "childs": []
+            },
+            {
+              "name": "Navigating Trade Wars: The Investor's Perspective",
+              "childs": []
+            },
+            {
+              "name": "Brexit and Its Effects on European Markets: Opportunities and Challenges",
+              "childs": []
+            },
+            {
+              "name": "How Global Pandemics Influence Financial Markets",
+              "childs": []
+            },
+            {
+              "name": "The Role of Geopolitics in Shaping Market Outlook",
+              "childs": []
+            }
+          ]
+        },
+        {
+          "name": "Emerging Markets",
+          "childs": [
+            {
+              "name": "5 Emerging Markets to Watch for High Growth Potential",
+              "childs": []
+            },
+            {
+              "name": "Understanding the Risks and Rewards of Investing in Emerging Markets",
+              "childs": []
+            },
+            {
+              "name": "Capturing Opportunities in the Chinese Market",
+              "childs": []
+            },
+            {
+              "name": "Exploring India's Growing Economy and Investment Landscape",
+              "childs": []
+            },
+            {
+              "name": "The Potential of Africa's Fast-Growing Economies",
+              "childs": []
+            }
+          ]
+        },
+        {
+          "name": "Currency Dynamics",
+          "childs": [
+            {
+              "name": "The Top 5 Currencies Investors Should Monitor",
+              "childs": []
+            },
+            {
+              "name": "How Exchange Rates Impact Your Investment Portfolio",
+              "childs": []
+            },
+            {
+              "name": "The Role of Cryptocurrencies in Modern Investment Strategies",
+              "childs": []
+            },
+            {
+              "name": "A Guide to Currency Hedging for Investors",
+              "childs": []
+            },
+            {
+              "name": "The Effects of Central Bank Policies on Currency Markets",
+              "childs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Investment Strategies",
+      "childs": [
+        {
+          "name": "Diversification Techniques",
+          "childs": [
+            {
+              "name": "The Importance of Diversification in Your Investment Portfolio",
+              "childs": []
+            },
+            {
+              "name": "5 Strategies to Diversify Across Asset Classes",
+              "childs": []
+            },
+            {
+              "name": "The Role of International Diversification in Portfolio Construction",
+              "childs": []
+            },
+            {
+              "name": "Smart Diversification: How to Avoid Over-concentration",
+              "childs": []
+            },
+            {
+              "name": "Diversifying Your Portfolio with Alternative Investments",
+              "childs": []
+            }
+          ]
+        },
+        {
+          "name": "Passive vs. Active Investing",
+          "childs": [
+            {
+              "name": "The Pros and Cons of Passive Investing: Is it Right for You?",
+              "childs": []
+            },
+            {
+              "name": "The Role of Active Investing in a Balanced Portfolio",
+              "childs": []
+            },
+            {
+              "name": "Comparing Index Funds and Actively Managed Funds",
+              "childs": []
+            },
+            {
+              "name": "Why a Blended Approach to Investing Might Be Best",
+              "childs": []
+            },
+            {
+              "name": "The Cost-Benefit Analysis of Active vs. Passive Management",
+              "childs": []
+            }
+          ]
+        },
+        {
+          "name": "Long-term vs. Short-term Approaches",
+          "childs": [
+            {
+              "name": "The Benefits of Long-Term Investing: Building Wealth Over Time",
+              "childs": []
+            },
+            {
+              "name": "Pros and Cons of Short-Term Trading Strategies",
+              "childs": []
+            },
+            {
+              "name": "Swing Trading: A Guide for Investors Seeking Short-Term Gains",
+              "childs": []
+            },
+            {
+              "name": "Dollar-Cost Averaging: A Long-Term Strategy for Market Volatility",
+              "childs": []
+            },
+            {
+              "name": "Finding the Right Investment Time Horizon for Your Goals",
+              "childs": []
+            }
+          ]
+        },
+        {
+          "name": "Value vs. Growth Investing",
+          "childs": [
+            {
+              "name": "The Art of Value Investing: Identifying Undervalued Stocks",
+              "childs": []
+            },
+            {
+              "name": "Growth Investing: Targeting High-Potential Companies",
+              "childs": []
+            },
+            {
+              "name": "Warren Buffett's Investment Principles: A Guide to Value Investing",
+              "childs": []
+            },
+            {
+              "name": "5 Characteristics of High-Growth Stocks to Look For",
+              "childs": []
+            },
+            {
+              "name": "Blending Value and Growth Strategies for Optimal Portfolio Performance",
+              "childs": []
+            }
+          ]
+        },
+        {
+          "name": "Sustainable Investing",
+          "childs": [
+            {
+              "name": "Introduction to ESG Investing: Aligning Your Portfolio with Your Values",
+              "childs": []
+            },
+            {
+              "name": "The Rise of Impact Investing: How to Make a Difference with Your Money",
+              "childs": []
+            },
+            {
+              "name": "5 Top Performing ESG Funds for Sustainable Investors",
+              "childs": []
+            },
+            {
+              "name": "Why Green Bonds Are Gaining Popularity Among Investors",
+              "childs": []
+            },
+            {
+              "name": "Corporate Social Responsibility and Its Influence on Stock Performance",
+              "childs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Portfolio Growth",
+      "childs": [
+        {
+          "name": "Asset Allocation",
+          "childs": [
+            {
+              "name": "The Basics of Asset Allocation: A Guide for Investors",
+              "childs": []
+            },
+            {
+              "name": "How to Determine the Optimal Asset Mix for Your Portfolio",
+              "childs": []
+            },
+            {
+              "name": "The Role of Bonds in a Diversified Investment Portfolio",
+              "childs": []
+            },
+            {
+              "name": "Investing in Real Estate: The Pros and Cons of REITs",
+              "childs": []
+            },
+            {
+              "name": "Understanding the Importance of Cash in Your Portfolio",
+              "childs": []
+            }
+          ]
+        },
+        {
+          "name": "Performance Tracking",
+          "childs": [
+            {
+              "name": "How to Effectively Track Your Investment Portfolio Performance",
+              "childs": []
+            },
+            {
+              "name": "Benchmarking Your Portfolio: A Guide to Selecting the Right Index",
+              "childs": []
+            },
+            {
+              "name": "The Importance of Regular Performance Reviews for Your Investments",
+              "childs": []
+            },
+            {
+              "name": "Using Risk-Adjusted Return Metrics to Evaluate Your Portfolio",
+              "childs": []
+            },
+            {
+              "name": "How to Identify and Address Underperforming Assets",
+              "childs": []
+            }
+          ]
+        },
+        {
+          "name": "Rebalancing Methods",
+          "childs": [
+            {
+              "name": "The Importance of Rebalancing Your Investment Portfolio",
+              "childs": []
+            },
+            {
+              "name": "Strategies for Effective Portfolio Rebalancing",
+              "childs": []
+            },
+            {
+              "name": "Timing Your Rebalancing Efforts: When and How Often",
+              "childs": []
+            },
+            {
+              "name": "Tax Considerations When Rebalancing Your Portfolio",
+              "childs": []
+            },
+            {
+              "name": "Using Robo-Advisors for Automatic Portfolio Rebalancing",
+              "childs": []
+            }
+          ]
+        },
+        {
+          "name": "Dividend Strategies",
+          "childs": [
+            {
+              "name": "Dividend Investing: How to Build a Passive Income Stream",
+              "childs": []
+            },
+            {
+              "name": "The Benefits of Dividend Reinvestment Plans (DRIPs)",
+              "childs": []
+            },
+            {
+              "name": "Top 5 High-Yield Dividend Stocks for Income Investors",
+              "childs": []
+            },
+            {
+              "name": "Dividend Aristocrats: Consistent Income Growth Through Stock Dividends",
+              "childs": []
+            },
+            {
+              "name": "Dividend Growth vs. High Yield: Which Strategy is Right for You?",
+              "childs": []
+            }
+          ]
+        },
+        {
+          "name": "Tax-efficient Investing",
+          "childs": [
+            {
+              "name": "Tax-Smart Investing: Strategies to Minimize Your Tax Burden",
+              "childs": []
+            },
+            {
+              "name": "The Benefits of Tax-Advantaged Accounts for Investors",
+              "childs": []
+            },
+            {
+              "name": "Understanding the Tax Implications of Mutual Funds",
+              "childs": []
+            },
+            {
+              "name": "How to Harvest Tax Losses to Offset Capital Gains",
+              "childs": []
+            },
+            {
+              "name": "Estate Planning Tips for Tax-Efficient Wealth Transfer",
+              "childs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Risk Management",
+      "childs": [
+        {
+          "name": "Understanding Volatility",
+          "childs": [
+            {
+              "name": "How Market Volatility Affects Your Investment Portfolio",
+              "childs": []
+            },
+            {
+              "name": "Using the VIX Index to Gauge Market Risk and Volatility",
+              "childs": []
+            },
+            {
+              "name": "Volatility and Your Investments: Strategies to Manage Risk",
+              "childs": []
+            },
+            {
+              "name": "Low Volatility Investing: A Guide to Smoothing Portfolio Returns",
+              "childs": []
+            },
+            {
+              "name": "The Role of Volatility in Asset Allocation and Portfolio Construction",
+              "childs": []
+            }
+          ]
+        },
+        {
+          "name": "Market Risk Assessment",
+          "childs": [
+            {
+              "name": "How to Assess and Manage Market Risk in Your Portfolio",
+              "childs": []
+            },
+            {
+              "name": "5 Market Risk Factors Every Investor Should Consider",
+              "childs": []
+            },
+            {
+              "name": "Understanding Systematic and Unsystematic Risk in Investments",
+              "childs": []
+            },
+            {
+              "name": "The Role of Beta in Evaluating Stock Risk",
+              "childs": []
+            },
+            {
+              "name": "Sector Rotation: A Market Risk Mitigation Strategy",
+              "childs": []
+            }
+          ]
+        },
+        {
+          "name": "Hedging Techniques",
+          "childs": [
+            {
+              "name": "The Basics of Hedging: Protecting Your Portfolio from Market Risks",
+              "childs": []
+            },
+            {
+              "name": "How to Hedge Your Investments with Options",
+              "childs": []
+            },
+            {
+              "name": "The Role of Gold and Other Precious Metals in Portfolio Hedging",
+              "childs": []
+            },
+            {
+              "name": "Incorporating Inverse ETFs for Market Protection",
+              "childs": []
+            },
+            {
+              "name": "Currency Hedging for International Investments: A Practical Guide",
+              "childs": []
+            }
+          ]
+        },
+        {
+          "name": "Risk Tolerance Evaluation",
+          "childs": [
+            {
+              "name": "Determining Your Risk Tolerance: A Guide for Investors",
+              "childs": []
+            },
+            {
+              "name": "Balancing Risk and Reward: How to Find Your Investment Comfort Zone",
+              "childs": []
+            },
+            {
+              "name": "How Age and Life Stage Affect Your Risk Tolerance",
+              "childs": []
+            },
+            {
+              "name": "Using Risk Tolerance Questionnaires to Inform Your Investment Strategy",
+              "childs": []
+            },
+            {
+              "name": "Adjusting Your Portfolio Based on Changing Risk Preferences",
+              "childs": []
+            }
+          ]
+        },
+        {
+          "name": "Managing Investment Psychology",
+          "childs": [
+            {
+              "name": "Overcoming Behavioral Biases in Investing: A Guide for Rational Decision-Making",
+              "childs": []
+            },
+            {
+              "name": "The Role of Emotional Intelligence in Investment Management",
+              "childs": []
+            },
+            {
+              "name": "Avoiding the Pitfalls of Herd Mentality in the Financial Markets",
+              "childs": []
+            },
+            {
+              "name": "Managing Fear and Greed: How to Stay Grounded During Market Fluctuations",
+              "childs": []
+            },
+            {
+              "name": "The Importance of Maintaining a Long-Term Perspective in Investing",
+              "childs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

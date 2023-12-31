@@ -1,0 +1,50 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/introduction-to-esg-investing-aligning-your-portfolio-with-your-values.jpg",
+      "name": "Introduction to ESG Investing: Aligning Your Portfolio with Your Values",
+      "url": "./introduction-to-esg-investing-aligning-your-portfolio-with-your-values/"
+    },
+    {
+      "img": "menu/the-rise-of-impact-investing-how-to-make-a-difference-with-your-money.jpg",
+      "name": "The Rise of Impact Investing: How to Make a Difference with Your Money",
+      "url": "./the-rise-of-impact-investing-how-to-make-a-difference-with-your-money/"
+    },
+    {
+      "img": "menu/5-top-performing-esg-funds-for-sustainable-investors.jpg",
+      "name": "5 Top Performing ESG Funds for Sustainable Investors",
+      "url": "./5-top-performing-esg-funds-for-sustainable-investors/"
+    },
+    {
+      "img": "menu/why-green-bonds-are-gaining-popularity-among-investors.jpg",
+      "name": "Why Green Bonds Are Gaining Popularity Among Investors",
+      "url": "./why-green-bonds-are-gaining-popularity-among-investors/"
+    },
+    {
+      "img": "menu/corporate-social-responsibility-and-its-influence-on-stock-performance.jpg",
+      "name": "Corporate Social Responsibility and Its Influence on Stock Performance",
+      "url": "./corporate-social-responsibility-and-its-influence-on-stock-performance/"
+    }
+  ],
+  "title": "Sustainable Investing",
+  "h1": "Sustainable Investing",
+  "url": "https://investbread.com/investment-strategies/sustainable-investing/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Investment Strategies",
+      "url": "/investment-strategies/"
+    },
+    {
+      "name": "Sustainable Investing",
+      "url": "/investment-strategies/sustainable-investing/"
+    }
+  ],
+  "keywords": "Sustainable Investing, ESG, Socially Responsible Investing, Impact Investing, Green Investments",
+  "description": "Learn about Sustainable Investing, ESG (Environment, Social, Governance), Socially Responsible Investing, Impact Investing and Green Investments for a better future.",
+  "about": "Sustainable Investing involves investing in companies that have a positive impact on the environment, society or governance, while also generating positive financial returns. ESG (Environment, Social, Governance) is becoming a popular way for investors to evaluate companies on their sustainability and social responsibility practices. Socially Responsible Investing focuses on investing in companies that align with the investor's personal values and beliefs. Impact Investing is a form of sustainable investing that aims to generate social or environmental impact alongside financial return. Green Investments, on the other hand, focus on investments in alternative or renewable energy, energy efficiency, and sustainable agriculture. Sustainable Investing is becoming increasingly important as investors realize the importance of social and environmental responsibility in the business world. Investing in sustainable companies not only helps build a better future, but also makes good financial sense."
+}

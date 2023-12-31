@@ -1,0 +1,46 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/understanding-volatility.jpg",
+      "name": "Understanding Volatility",
+      "url": "./understanding-volatility/"
+    },
+    {
+      "img": "menu/market-risk-assessment.jpg",
+      "name": "Market Risk Assessment",
+      "url": "./market-risk-assessment/"
+    },
+    {
+      "img": "menu/hedging-techniques.jpg",
+      "name": "Hedging Techniques",
+      "url": "./hedging-techniques/"
+    },
+    {
+      "img": "menu/risk-tolerance-evaluation.jpg",
+      "name": "Risk Tolerance Evaluation",
+      "url": "./risk-tolerance-evaluation/"
+    },
+    {
+      "img": "menu/managing-investment-psychology.jpg",
+      "name": "Managing Investment Psychology",
+      "url": "./managing-investment-psychology/"
+    }
+  ],
+  "title": "Risk Management",
+  "h1": "Risk Management",
+  "url": "https://investbread.com/risk-management/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Risk Management",
+      "url": "/risk-management/"
+    }
+  ],
+  "keywords": "Risk Management, Investment Risk, Financial Risk, Risk Assessment, Risk Mitigation",
+  "description": "Learn about Risk Management in investments and financial planning. Understand the importance of risk assessment and mitigation strategies to safeguard your investments",
+  "about": "Risk Management is an essential aspect of investing and financial planning. It involves identifying and evaluating potential risks that may arise while investment, and adopting a suitable strategy to mitigate those risks. Investment Risks may arise due to various factors, such as market conditions, economic factors, political changes, unforeseen events, etc. Understanding and managing risk is crucial to protect your investments and make informed financial decisions. At InvestBread, we provide comprehensive resources, including articles and guides, to help you understand Risks and the strategies you can adopt to manage those risks. We cover various topics such as Risk Assessment, Risk Mitigation, Portfolio Diversification, and more. By leveraging our resources, you can make informed decisions about your investment, safeguard your financial future, and achieve your financial goals."
+}

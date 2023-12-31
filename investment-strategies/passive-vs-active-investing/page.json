@@ -1,0 +1,50 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/the-pros-and-cons-of-passive-investing-is-it-right-for-you.jpg",
+      "name": "The Pros and Cons of Passive Investing: Is it Right for You?",
+      "url": "./the-pros-and-cons-of-passive-investing-is-it-right-for-you/"
+    },
+    {
+      "img": "menu/the-role-of-active-investing-in-a-balanced-portfolio.jpg",
+      "name": "The Role of Active Investing in a Balanced Portfolio",
+      "url": "./the-role-of-active-investing-in-a-balanced-portfolio/"
+    },
+    {
+      "img": "menu/comparing-index-funds-and-actively-managed-funds.jpg",
+      "name": "Comparing Index Funds and Actively Managed Funds",
+      "url": "./comparing-index-funds-and-actively-managed-funds/"
+    },
+    {
+      "img": "menu/why-a-blended-approach-to-investing-might-be-best.jpg",
+      "name": "Why a Blended Approach to Investing Might Be Best",
+      "url": "./why-a-blended-approach-to-investing-might-be-best/"
+    },
+    {
+      "img": "menu/the-cost-benefit-analysis-of-active-vs-passive-management.jpg",
+      "name": "The Cost-Benefit Analysis of Active vs. Passive Management",
+      "url": "./the-cost-benefit-analysis-of-active-vs-passive-management/"
+    }
+  ],
+  "title": "Passive vs. Active Investing",
+  "h1": "Passive vs. Active Investing",
+  "url": "https://investbread.com/investment-strategies/passive-vs-active-investing/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Investment Strategies",
+      "url": "/investment-strategies/"
+    },
+    {
+      "name": "Passive vs. Active Investing",
+      "url": "/investment-strategies/passive-vs-active-investing/"
+    }
+  ],
+  "keywords": "passive investing, active investing, index funds, stock picking, portfolio management, investment strategy",
+  "description": "Passive vs. Active Investing - Which investment strategy is better for your portfolio? Learn about the differences between passive and active investing and decide which is right for you.",
+  "about": "Passive vs. Active Investing is a hotly debated topic in the world of finance. Passive investing involves investing in index funds or ETFs that track the overall market, while active investing involves stock picking and portfolio management in an attempt to outperform the market. Both strategies have their pros and cons, and the decision ultimately comes down to your financial goals and risk tolerance. Passive investing is often favored for its lower fees and more consistent returns, while active investing can potentially yield higher returns but also comes with higher risk and fees. At InvestBread.com, we provide resources and information to help you make informed investment decisions and create a portfolio that aligns with your financial goals."
+}

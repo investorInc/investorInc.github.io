@@ -1,0 +1,50 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/how-to-effectively-track-your-investment-portfolio-performance.jpg",
+      "name": "How to Effectively Track Your Investment Portfolio Performance",
+      "url": "./how-to-effectively-track-your-investment-portfolio-performance/"
+    },
+    {
+      "img": "menu/benchmarking-your-portfolio-a-guide-to-selecting-the-right-index.jpg",
+      "name": "Benchmarking Your Portfolio: A Guide to Selecting the Right Index",
+      "url": "./benchmarking-your-portfolio-a-guide-to-selecting-the-right-index/"
+    },
+    {
+      "img": "menu/the-importance-of-regular-performance-reviews-for-your-investments.jpg",
+      "name": "The Importance of Regular Performance Reviews for Your Investments",
+      "url": "./the-importance-of-regular-performance-reviews-for-your-investments/"
+    },
+    {
+      "img": "menu/using-risk-adjusted-return-metrics-to-evaluate-your-portfolio.jpg",
+      "name": "Using Risk-Adjusted Return Metrics to Evaluate Your Portfolio",
+      "url": "./using-risk-adjusted-return-metrics-to-evaluate-your-portfolio/"
+    },
+    {
+      "img": "menu/how-to-identify-and-address-underperforming-assets.jpg",
+      "name": "How to Identify and Address Underperforming Assets",
+      "url": "./how-to-identify-and-address-underperforming-assets/"
+    }
+  ],
+  "title": "Performance Tracking",
+  "h1": "Performance Tracking",
+  "url": "https://investbread.com/portfolio-growth/performance-tracking/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Portfolio Growth",
+      "url": "/portfolio-growth/"
+    },
+    {
+      "name": "Performance Tracking",
+      "url": "/portfolio-growth/performance-tracking/"
+    }
+  ],
+  "keywords": "Performance Tracking, Investment Tracking, Investment Performance, Investment Monitoring",
+  "description": "Track your investments' performance with InvestBread's comprehensive tracking tools. Keep an eye on your investments' gains and losses easily with our user-friendly website.",
+  "about": "Investing can be a risky business, which is why keeping track of your investments' performance is crucial. At InvestBread, we understand the importance of monitoring your investments, and that's why we've created a comprehensive tracking tool that lets you keep an eye on how well your investments are doing. Whether you're investing in stocks, mutual funds, or ETFs, our platform will provide you with accurate, up-to-date information that you can rely on. With clear, easy-to-understand charts and graphs, you'll be able to determine which investments are performing well and which ones may need to be reevaluated. We also offer portfolio analysis tools that allow you to assess your overall investment strategy and make any necessary adjustments. Investing doesn't have to be a guessing game - let InvestBread help you make informed decisions and stay on top of your investments' performance."
+}

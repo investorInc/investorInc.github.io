@@ -1,0 +1,50 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/top-5-economic-indicators-every-investor-needs-to-know.jpg",
+      "name": "Top 5 Economic Indicators Every Investor Needs to Know",
+      "url": "./top-5-economic-indicators-every-investor-needs-to-know/"
+    },
+    {
+      "img": "menu/the-impact-of-inflation-on-investment-portfolios.jpg",
+      "name": "The Impact of Inflation on Investment Portfolios",
+      "url": "./the-impact-of-inflation-on-investment-portfolios/"
+    },
+    {
+      "img": "menu/tracking-gdp-growth-a-guide-for-investors.jpg",
+      "name": "Tracking GDP Growth: A Guide for Investors",
+      "url": "./tracking-gdp-growth-a-guide-for-investors/"
+    },
+    {
+      "img": "menu/how-unemployment-rates-influence-market-performance.jpg",
+      "name": "How Unemployment Rates Influence Market Performance",
+      "url": "./how-unemployment-rates-influence-market-performance/"
+    },
+    {
+      "img": "menu/the-relationship-between-interest-rates-and-investments.jpg",
+      "name": "The Relationship Between Interest Rates and Investments",
+      "url": "./the-relationship-between-interest-rates-and-investments/"
+    }
+  ],
+  "title": "Economic Trends",
+  "h1": "Economic Trends",
+  "url": "https://investbread.com/market-insights/economic-trends/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Market Insights",
+      "url": "/market-insights/"
+    },
+    {
+      "name": "Economic Trends",
+      "url": "/market-insights/economic-trends/"
+    }
+  ],
+  "keywords": "Economic Trends, financial trends, economic forecast, economic analysis, global economy",
+  "description": "Stay updated on the latest economic trends and financial forecasts with InvestBread. Our in-depth economic analysis covers the global economy and more.",
+  "about": "Economic trends play a crucial role in shaping the financial landscape of our world. At InvestBread, we are dedicated to keeping you up-to-date on the latest economic forecasts and global trends. Our team of expert analysts provides in-depth economic analysis, covering topics such as GDP growth rates, inflation, interest rates, and more. Whether you're a seasoned investor or just starting out, our comprehensive coverage of economic trends will help you make informed financial decisions. Stay ahead of the curve with InvestBread."
+}

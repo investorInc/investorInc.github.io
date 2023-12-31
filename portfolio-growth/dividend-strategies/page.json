@@ -1,0 +1,50 @@
+{
+  "menu": true,
+  "articles": [
+    {
+      "img": "menu/dividend-investing-how-to-build-a-passive-income-stream.jpg",
+      "name": "Dividend Investing: How to Build a Passive Income Stream",
+      "url": "./dividend-investing-how-to-build-a-passive-income-stream/"
+    },
+    {
+      "img": "menu/the-benefits-of-dividend-reinvestment-plans-drips.jpg",
+      "name": "The Benefits of Dividend Reinvestment Plans (DRIPs)",
+      "url": "./the-benefits-of-dividend-reinvestment-plans-drips/"
+    },
+    {
+      "img": "menu/top-5-high-yield-dividend-stocks-for-income-investors.jpg",
+      "name": "Top 5 High-Yield Dividend Stocks for Income Investors",
+      "url": "./top-5-high-yield-dividend-stocks-for-income-investors/"
+    },
+    {
+      "img": "menu/dividend-aristocrats-consistent-income-growth-through-stock-dividends.jpg",
+      "name": "Dividend Aristocrats: Consistent Income Growth Through Stock Dividends",
+      "url": "./dividend-aristocrats-consistent-income-growth-through-stock-dividends/"
+    },
+    {
+      "img": "menu/dividend-growth-vs-high-yield-which-strategy-is-right-for-you.jpg",
+      "name": "Dividend Growth vs. High Yield: Which Strategy is Right for You?",
+      "url": "./dividend-growth-vs-high-yield-which-strategy-is-right-for-you/"
+    }
+  ],
+  "title": "Dividend Strategies",
+  "h1": "Dividend Strategies",
+  "url": "https://investbread.com/portfolio-growth/dividend-strategies/",
+  "breadcrumbs": [
+    {
+      "name": "Home Page",
+      "url": "/"
+    },
+    {
+      "name": "Portfolio Growth",
+      "url": "/portfolio-growth/"
+    },
+    {
+      "name": "Dividend Strategies",
+      "url": "/portfolio-growth/dividend-strategies/"
+    }
+  ],
+  "keywords": "dividend strategies, stock investment, passive income, dividend paying stocks, high yield investing",
+  "description": "Learn about dividend strategies for stock investment to generate passive income through dividend paying stocks and high yield investing.",
+  "about": "Dividend strategies are an investment approach aiming to generate passive income through dividend paying stocks. Dividend paying stocks are stocks that share a portion of their profits with shareholders in the form of dividends. When investing in dividend paying stocks, an investor seeks to hold stocks with a history of paying dividends and increasing the payout over time. There are different dividend strategies based on the type of dividend paying stocks and the desired yield. High-yield investing is a dividend strategy aimed at generating higher income by investing in stocks with high yields, typically above the market average. There are also dividend-oriented mutual funds and exchange-traded funds (ETFs) that invest in dividend-paying stocks. The choice of dividend strategy depends on the investor's financial goals, risk appetite, and investment horizon."
+}
